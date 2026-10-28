@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+
+int v;
+
+for(v = 10; v >= 1; v=v-1)
+{
+	printf("%d ", v);
+}
+
+	
+}
